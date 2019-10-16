@@ -6,7 +6,7 @@
 For the first talk about Functional Programming please have a look at:
 
 ## Previous Workshops:
-I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://www.google.com)
 (https://tech.io/playgrounds/24002/functional-programming-mindset/introduction)[Functional (Programming) mindset]<br/>
 (https://github.com/leolanese/Becoming-Functional)[Becoming Functionl]<br/>
 
