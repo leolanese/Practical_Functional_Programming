@@ -5,13 +5,13 @@ const curry = (f, ...args) => (f.length <= args.length) ?
     (...more) => curry(f, ...args, ...more);
 ```
 
-// const compose = (f, g) => (a) => f(g(a)) 
+
+// const compose = (f, g) => (a) => f(g(a)) = a . g .f 
 ```javascript
-const compose  = (fn, ...rest) =>
-  rest.length === 0 ?
-    fn :
-    (...args) => fn(compose(...rest)(...args));
+const compose = (...functions) => args => functions.reduceRight((arg, fn) => fn(arg), args);
 ```
 
-
-
+// const compose = (f, g) => (a) => f(g(a)) = f . g .a
+```javasccript
+const pipe = (...functions) => args => functions.reduce((arg, fn) => fn(arg), args);
+```
