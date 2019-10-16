@@ -6,6 +6,8 @@ For the first talk about Functional Programming please have a look at:
 ## Previous FP Workshops:
 [Functional (Programming) mindset](https://tech.io/playgrounds/24002/functional-programming-mindset/introduction)<br/>
 [Becoming Functional](https://github.com/leolanese/Becoming-Functional)<br/>
+[Functional Programming Keynotes](Functional-Programming-Keynotes)<br/>
+
 
 
 
