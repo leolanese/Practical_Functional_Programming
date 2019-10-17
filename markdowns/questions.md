@@ -14,6 +14,8 @@ After completing the [Functional (Programming) mindset](https://github.com/leola
 
 <a href="https://playcode.io/463480?tabs=test.js,preview,console" target="_blank">JS playground: playcode.io</a>
 
+[JS playground: playcode.io](https://playcode.io/463480?tabs=test.js,preview,console){:target="_blank"}
+
 </p>
 </details>
 
