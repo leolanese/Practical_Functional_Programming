@@ -302,4 +302,24 @@ console.log(comb)
 </p>
 </details>
 
+----
+
+#### QUESTION 11)
+
+#### AC
+Find a text inside an string
+
+<details><summary>Results</summary>
+<p>
+
+```javascript
+var someText = 'javascript rules';
+console.log(someText.indexOf('javascript') >= 0); 
+```
+
+[FP solution](https://github.com/leolanese/practical_functional_programming/blob/master/markdowns/10-Result.md)
+
+</p>
+</details>
+
 
