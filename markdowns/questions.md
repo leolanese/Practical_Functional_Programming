@@ -149,3 +149,27 @@ function fib(n) {
 fib(15); // 610
 ```
 
+----
+
+#### QUESTION 9)
+
+#### AC
+Remove duplicate elements from array 
+
+```javascript
+var names = ["Sam", "Carley", "Leo", "Tom", "Leo", "Leo"];
+
+var uniqueArray = function(arrArg) {
+  return arrArg.filter(function(elem, pos,arr) {
+    return arr.indexOf(elem) == pos;
+  });
+};
+uniqueArray(names); // ["Sam", "Carley", "Leo", "Tom"]
+```
+
+----
+
+#### QUESTION 10)
+
+#### AC
+
