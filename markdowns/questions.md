@@ -10,12 +10,7 @@ After completing the [Functional (Programming) mindset](https://github.com/leola
 <details><summary>Results</summary>
 <p>
 
-[JS playground: playcode.io](https://playcode.io/463480?tabs=test.js,preview,console){:target="_blank"}
-
-<a href="https://playcode.io/463480?tabs=test.js,preview,console" target="_blank">JS playground: playcode.io</a>
-
-[JS playground: playcode.io](https://playcode.io/463480?tabs=test.js,preview,console){:target="_blank"}
-
+[JS playground: playcode.io](https://playcode.io/463480?tabs=test.js,preview,console)
 
 </p>
 </details>
