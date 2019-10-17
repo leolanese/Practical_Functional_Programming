@@ -5,7 +5,7 @@ After completing the [Functional (Programming) mindset](https://github.com/leola
 
 ----
 
-#### Questions Results using Imperative & Functional Programming:
+#### Questions Results playground using both Imperative & Functional Programming:
 
 <details><summary>Results</summary>
 <p>
