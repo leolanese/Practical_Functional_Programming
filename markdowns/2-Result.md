@@ -1,7 +1,7 @@
 ### QUESTION 2)
 
 #### AC:
-
+Sort the following array
 
 ```javascript
 const arr = [0, 1, 5, 3, 4, 2, 9, 7, 8, 6];
