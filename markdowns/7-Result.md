@@ -1,7 +1,7 @@
-#### EXAMPLE 7)
+#### QUESTION 7)
 
 #### AC:
-Sum of all 4 paramenters
+Sum of all 4 or more parameters parameters
 
 ```javascript
 function sum(...args) {
