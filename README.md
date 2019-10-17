@@ -1,10 +1,8 @@
 # Practical Functional Programming
 "Practical Functional Programming" is the the third part of the Functional Programming introduction, and a more even more hands-on approach.
 
-For the first talk about Functional Programming please have a look at:
-
-
 # Previous Workshops:
+For the first talk about Functional Programming please have a look at:
 
 ## Previous ES6 Workshops:
 [Open Source JS Resources](https://github.com/leolanese/Open-Source-JS-Resources)<br/>
@@ -14,9 +12,6 @@ For the first talk about Functional Programming please have a look at:
 [Becoming Functional](https://github.com/leolanese/Becoming-Functional)<br/>
 [Functional Programming Keynotes](Functional-Programming-Keynotes)<br/>
 
-
-----
-
 ## ACTION PLAN
 After completing the [Functional (Programming) mindset](https://github.com/leolanese/Becoming-Functional/blob/master/README.md), have a look at the [Functional Programming Keynote](https://github.com/leolanese/Functional-Programming-Keynotes) and follow the action plan from: [Becoming functional](https://github.com/leolanese/Becoming-Functional/blob/master/README.md) to create the following code exercises:
 
@@ -24,9 +19,9 @@ After completing the [Functional (Programming) mindset](https://github.com/leola
 ----
 
 
-## { 'Leo Lanese',
+## {'Leo Lanese',
 ### 'I Build Inspiring Responsive Reactive Solutions',
-### 'LONDON, UK' }
+### 'LONDON, UK'}
 
 
 # My Portfolio<br>
