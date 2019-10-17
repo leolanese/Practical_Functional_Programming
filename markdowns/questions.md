@@ -1,7 +1,7 @@
 # Practical Functional Programming
 
 ## ACTION PLAN
-After completing the (Functional (Programming) mindset)[https://github.com/leolanese/Becoming-Functional/blob/master/README.md], have a look at the (Functional Programming Keynote)[https://github.com/leolanese/Functional-Programming-Keynotes] and follow the action plan from: (Becoming functional)[https://github.com/leolanese/Becoming-Functional/blob/master/README.md] to refactor the following code exercises:
+After completing the [Functional (Programming) mindset](https://github.com/leolanese/Becoming-Functional/blob/master/README.md), have a look at the (Functional Programming Keynote)[https://github.com/leolanese/Functional-Programming-Keynotes] and follow the action plan from: (Becoming functional)[https://github.com/leolanese/Becoming-Functional/blob/master/README.md] to refactor the following code exercises:
 
 ----
 
