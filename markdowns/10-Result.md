@@ -12,3 +12,7 @@ const calc = x => x => x * 2;
   .filter(a => typeof(a) === 'number')
   .map(calc()); // [2, 4, 0, NaN, -2, 6]
 ```
+
+- use of ES6
+- don't use push, use concat or even better Spread -> let sum = [...a,...b]
+- use of HoF
