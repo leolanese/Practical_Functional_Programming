@@ -56,7 +56,9 @@ var sortDesc = arr => {
     return arr.sort(
        (a, b) => b - a
     );
-}; // [9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
+}; 
+
+console.log(sortDesc(arr));  // [9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
 ```
 
 </p>
@@ -90,6 +92,8 @@ const state = {
 state.brand = 'AUDI';
 state.color = 'Tango Red';
 state.engine = 'V8';
+
+console.log(state); 
 ```
 
 </p>
@@ -120,6 +124,8 @@ const state = {
   extras: ['interior leather', 'cristal roof', 'parking assistance', 'navigation'],
 };
 delete state.brand; // true
+
+console.log(state); 
 ```
 
 </p>
@@ -145,6 +151,8 @@ function countItems() {
   });
   console.log(count);
 }
+
+countItems();  // { popsicle:3,underwear:3,sauce:3,pens:3,potatoes:3,onion:4,ukulele:3,tomahawk:1 }
 ```
 
 </p>
@@ -166,7 +174,9 @@ let arr = [ {'a':1,'b':2}, {'a':3,'b':4}, {'a':5,'b':6} ];
 index = arr.findIndex(x => x.a === 3); // 1
 beforeItems = arr.slice(0, index);
 afterItems = arr.slice(index + 1);
-newArr = [...beforeItems, {a:666, b:666} , ...afterItems]
+newArr = [...beforeItems, {a:666, b:666} , ...afterItems];
+
+console.log(newArr);
 ```
 
 </p>
@@ -184,12 +194,14 @@ Sum of all 4 or more parameters paramenters
 
 ```javascript
 function sum(){
-  var sum =0; 
-  for(var i=0;i<arguments.length;i++){
+  var sum = 0; 
+  for(var i= 0; i<arguments.length; i++){
      sum += arguments[i];
   }
    return sum;
-}; // 6
+}; 
+
+console.log(sum(1,2,3,4)); // 10
 ```
 
 </p>
@@ -214,7 +226,7 @@ function fib(n) {
   }
 }
 
-fib(15); // 610
+console.log( fib(15) ); // 610
 ```
 
 </p>
@@ -238,7 +250,7 @@ var uniqueArray = function(arrArg) {
     return arr.indexOf(elem) == pos;
   });
 };
-uniqueArray(names); // ["Sam", "Carley", "Leo", "Tom"]
+console.log(uniqueArray(names)); // ["Sam", "Carley", "Leo", "Tom"]
 ```
 
 </p>
@@ -256,13 +268,15 @@ Combine these multiple Arrays, get the number elements, multiply those by 2
 
 ```javascript
 var a = ["This", "is", 1, 2, 0];
-vat b = [true, NaN, -1, "javaScript", 3];
+var b = [true, NaN, -1, "javaScript", 3];
 
 const combined = a.concat(b);
 
-combined
+const comb = combined
   .filter(a => typeof(a) === 'number')
-  .map(x => x * 2); // [2, 4, 0, NaN, -2, 6]
+  .map(x => x * 2); // [2, 4, 0, NaN, -2, 6];
+
+console.log(comb)
 ```  
 
 </p>
