@@ -1,4 +1,4 @@
-#### EXAMPLE 5)
+#### QUESTION 5)
 
 #### AC:
 Counts the duplicate value inside an array
