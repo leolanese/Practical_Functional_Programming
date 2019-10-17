@@ -16,11 +16,14 @@ Square all the numbers in an array:
 ```javascript
 var arr = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 
-for(let i = 0; i < arr.length; i++) {
-   arr[i] = Math.pow(arr[i], 2);
-}
-array; // [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+arr.forEach(function(element, index, array){
+    array[index] = element* element;
+});
+console.log(arr); // [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+
 ```
+[Code](https://playcode.io/463485?tabs=1-Result.js.js,preview,console)
+
 
 </p>
 </details>
