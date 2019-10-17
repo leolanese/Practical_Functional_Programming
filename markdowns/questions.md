@@ -317,7 +317,7 @@ var someText = 'javascript rules :)';
 console.log(someText.indexOf('javascript') >= 0); 
 ```
 
-[FP solution](https://github.com/leolanese/practical_functional_programming/blob/master/markdowns/10-Result.md)
+[FP solution](https://github.com/leolanese/practical_functional_programming/blob/master/markdowns/11-Result.md)
 
 </p>
 </details>
