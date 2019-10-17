@@ -1,6 +1,4 @@
-----
-
-#### EXAMPLE 6)
+#### QUESTION 6)
 
 #### AC:
 Replace an item from an Array of Objects where: {a === 3}
