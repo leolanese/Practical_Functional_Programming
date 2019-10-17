@@ -5,13 +5,12 @@ After completing the [Functional (Programming) mindset](https://github.com/leola
 
 ----
 
-#### Questions Results playground using both Imperative & Functional Programming:
+#### Playground:
 
 <details><summary>Results</summary>
 <p>
 
-Imperative & Functional Results:
-[Code](https://playcode.io/463485?tabs=1-Result.js.js,preview,console)
+[Code](https://playcode.io/463480?tabs=test.js,preview,console)
 
 </p>
 </details>
@@ -35,6 +34,9 @@ arr.forEach(function(element, index, array){
 console.log(arr); // [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
 
 ```
+
+[FP solution](https://github.com/leolanese/practical_functional_programming/blob/master/markdowns/1-Result.md)
+
 
 </p>
 </details>
@@ -60,6 +62,8 @@ var sortDesc = arr => {
 
 console.log(sortDesc(arr));  // [9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
 ```
+
+[FP solution](https://github.com/leolanese/practical_functional_programming/blob/master/markdowns/2-Result.md)
 
 </p>
 </details>
@@ -96,6 +100,8 @@ state.engine = 'V8';
 console.log(state); 
 ```
 
+[FP solution](https://github.com/leolanese/practical_functional_programming/blob/master/markdowns/3-Result.md)
+
 </p>
 </details>
 
@@ -128,6 +134,8 @@ delete state.brand; // true
 console.log(state); 
 ```
 
+[FP Solution](https://github.com/leolanese/practical_functional_programming/blob/master/markdowns/4-Result.md)
+
 </p>
 </details>
 
@@ -155,6 +163,8 @@ function countItems() {
 countItems();  // { popsicle:3,underwear:3,sauce:3,pens:3,potatoes:3,onion:4,ukulele:3,tomahawk:1 }
 ```
 
+[FP solution](https://github.com/leolanese/practical_functional_programming/blob/master/markdowns/5-Result.md)
+
 </p>
 </details>
 
@@ -178,6 +188,8 @@ newArr = [...beforeItems, {a:666, b:666} , ...afterItems];
 
 console.log(newArr);
 ```
+
+[FP solution](https://github.com/leolanese/practical_functional_programming/blob/master/markdowns/6-Result.md)
 
 </p>
 </details>
@@ -204,6 +216,8 @@ function sum(){
 console.log(sum(1,2,3,4)); // 10
 ```
 
+[FP solution](https://github.com/leolanese/practical_functional_programming/blob/master/markdowns/7-Result.md)
+
 </p>
 </details>
 
@@ -229,6 +243,8 @@ function fib(n) {
 console.log( fib(15) ); // 610
 ```
 
+[FP solution](https://github.com/leolanese/practical_functional_programming/blob/master/markdowns/8-Result.md)
+
 </p>
 </details>
 
@@ -252,6 +268,8 @@ var uniqueArray = function(arrArg) {
 };
 console.log(uniqueArray(names)); // ["Sam", "Carley", "Leo", "Tom"]
 ```
+
+[FP solution](https://github.com/leolanese/practical_functional_programming/blob/master/markdowns/9-Result.md)
 
 </p>
 </details>
@@ -277,7 +295,9 @@ const comb = combined
   .map(x => x * 2); // [2, 4, 0, NaN, -2, 6];
 
 console.log(comb)
-```  
+```
+
+[FP solution](https://github.com/leolanese/practical_functional_programming/blob/master/markdowns/10-Result.md)
 
 </p>
 </details>
