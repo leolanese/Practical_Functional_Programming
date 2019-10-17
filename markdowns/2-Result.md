@@ -1,4 +1,4 @@
-### Example 2)
+### QUESTION 2)
 
 #### AC:
 
