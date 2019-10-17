@@ -1,6 +1,4 @@
-----
-
-### EXAMPLE 5)
+### QUESTION 5)
 
 #### AC:
 Removing the following  'brand' Object property from the Object:
