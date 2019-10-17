@@ -1,4 +1,4 @@
-### Question 1)
+### QUESTION 1)
 
 #### AC:
 Square all the numbers in an array: 
