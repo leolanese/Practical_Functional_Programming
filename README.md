@@ -5,13 +5,15 @@
 For the first talk about Functional Programming please have a look at:
 
 ## Previous ES6 Workshops:
-[Open Source JS Resources](https://github.com/leolanese/Open-Source-JS-Resources)<br/>
+<a href="https://github.com/leolanese/ES6_workshop" target="_blank">ES6_workshop</a><br>
 
 ## Previous FP Workshops:
 [Functional (Programming) mindset](https://tech.io/playgrounds/24002/functional-programming-mindset/introduction)<br/>
 <a href="https://leolanese.github.io/Becoming-Functional/" target="_blank">Becoming Functional</a><br>
 <a href="https://leolanese.github.io/Functional-Programming-Keynotes/" target="_blank">Functional Programming Keynotes</a><br>
 
+## Further information/resources:
+<a href="https://leolanese.github.io/Open-Source-JS-Resources/" target="_blank">Open Source JS Resource</a><br>
 
 ## ACTION PLAN
 After completing the [Functional (Programming) mindset](https://github.com/leolanese/Becoming-Functional/blob/master/README.md), have a look at the [Functional Programming Keynote](https://github.com/leolanese/Functional-Programming-Keynotes) and follow the action plan from: [Becoming functional](https://github.com/leolanese/Becoming-Functional/blob/master/README.md) to create the following code exercises:
