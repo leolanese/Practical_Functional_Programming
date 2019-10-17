@@ -13,9 +13,6 @@ Square all the numbers in an array:
 
 <details><summary>Results</summary>
 <p>
-
-#### yes, even hidden code blocks!
-
 ```javascript
 var arr = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 
@@ -24,7 +21,6 @@ for(let i = 0; i < arr.length; i++) {
 }
 array; // [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
 ```
-
 </p>
 </details>
 
