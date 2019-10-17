@@ -313,7 +313,7 @@ Find a text inside an string
 <p>
 
 ```javascript
-var someText = 'javascript rules';
+var someText = 'javascript rules :)';
 console.log(someText.indexOf('javascript') >= 0); 
 ```
 
