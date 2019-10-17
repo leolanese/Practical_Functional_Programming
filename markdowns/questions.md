@@ -124,10 +124,13 @@ newArr = [...beforeItems, {a:666, b:666} , ...afterItems]
 Sum of all 4 or more parameters paramenters
 
 ```javascript
-function addFourNumbers(a, b, c, d) {
-  return a + b + c + d
-}
-addFourNumbers(1,2,3,4); // 10
+function sum(){
+  var sum =0; 
+  for(var i=0;i<arguments.length;i++){
+     sum += arguments[i];
+  }
+   return sum;
+}; // 6
 ```
 
 ----
@@ -172,4 +175,16 @@ uniqueArray(names); // ["Sam", "Carley", "Leo", "Tom"]
 #### QUESTION 10)
 
 #### AC
+Combine these multiple Arrays, get the number elements, multiply those by 2
+
+```javascript
+var a = ["This", "is", 1, 2, 0];
+vat b = [true, NaN, -1, "javaScript", 3];
+
+const combined = a.concat(b);
+
+combined
+  .filter(a => typeof(a) === 'number')
+  .map(x => x * 2); // [2, 4, 0, NaN, -2, 6]
+```  
 
