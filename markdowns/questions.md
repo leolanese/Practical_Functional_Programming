@@ -5,7 +5,7 @@ After completing the (Functional (Programming) mindset)[https://github.com/leola
 
 ----
 
-### EXAMPLE 1)
+### QUESTION 1)
 
 #### AC:
 Square all the numbers in an array: 
@@ -22,7 +22,7 @@ array; // [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
 
 ----
 
-### EXAMPLE 2)
+### QUESTION 2)
 
 #### AC:
 Sort the following array
@@ -40,7 +40,7 @@ var sortDesc = arr => {
 
 ----
 
-### EXAMPLE 3)
+### QUESTION 3)
 
 #### AC:
 Add or modify the following properties to an Object:
@@ -66,7 +66,7 @@ state.engine = 'V8';
 
 ----
 
-### EXAMPLE 4)
+### QUESTION 4)
 
 #### AC:
 Removing the following  'brand' Object property from the Object:
@@ -83,7 +83,7 @@ delete state.brand; // true
 
 ----
 
-#### EXAMPLE 5)
+#### QUESTION 5)
 
 #### AC:
 Count the duplicate value inside an array
@@ -102,7 +102,7 @@ function countItems() {
 
 ----
 
-#### EXAMPLE 6)
+#### QUESTION 6)
 
 #### AC:
 Replace an item from an Array of Objects where: {a === 3}
@@ -118,7 +118,7 @@ newArr = [...beforeItems, {a:666, b:666} , ...afterItems]
 
 ----
 
-#### EXAMPLE 7)
+#### QUESTION 7)
 
 #### AC:
 Sum of all 4 or more parameters paramenters
@@ -130,10 +130,9 @@ function addFourNumbers(a, b, c, d) {
 addFourNumbers(1,2,3,4); // 10
 ```
 
-
 ----
 
-#### EXAMPLE 8)
+#### QUESTION 8)
 
 #### AC:
 Leo Fibonnaci number of 15
@@ -149,3 +148,4 @@ function fib(n) {
 
 fib(15); // 610
 ```
+
