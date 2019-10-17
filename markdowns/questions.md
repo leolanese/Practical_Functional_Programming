@@ -5,6 +5,19 @@ After completing the [Functional (Programming) mindset](https://github.com/leola
 
 ----
 
+#### Questions Results using Imperative & Functional Programming:
+
+<details><summary>Results</summary>
+<p>
+
+Imperative & Functional Results:
+[Code](https://playcode.io/463485?tabs=1-Result.js.js,preview,console)
+
+</p>
+</details>
+
+----
+
 ### QUESTION 1)
 
 #### AC:
@@ -22,8 +35,6 @@ arr.forEach(function(element, index, array){
 console.log(arr); // [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
 
 ```
-[Code](https://playcode.io/463485?tabs=1-Result.js.js,preview,console)
-
 
 </p>
 </details>
