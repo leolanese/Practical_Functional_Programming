@@ -1,6 +1,7 @@
-----
+### QUESTION 3)
 
-### EXAMPLE 3)
+### AC
+Add or modify the following properties to an Object:
 
 ```javascript
 const state = {
