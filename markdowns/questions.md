@@ -202,7 +202,7 @@ Sum of all 4 or more parameters paramenters
 <p>
 
 ```javascript
-function sum(){
+function fooSum(){
   var sum = 0; 
   for(var i= 0; i<arguments.length; i++){
      sum += arguments[i];
@@ -210,7 +210,7 @@ function sum(){
    return sum;
 }; 
 
-console.log(sum(1,2,3,4)); // 10
+console.log(fooSum(1,2,3,4,5)); // 15
 ```
 
 [FP solution](https://github.com/leolanese/practical_functional_programming/blob/master/markdowns/7-Result.md)
