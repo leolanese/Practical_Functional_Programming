@@ -20,24 +20,22 @@ For the first talk about Functional Programming please have a look at previous w
 After completing the [Functional (Programming) mindset](https://github.com/leolanese/Becoming-Functional/blob/master/README.md), have a look at the [Functional Programming Keynote](https://github.com/leolanese/Functional-Programming-Keynotes) and follow the action plan from: [Becoming functional](https://github.com/leolanese/Becoming-Functional/blob/master/README.md) to create the following code exercises:
 
 
-----
+--
 
+### { 'Leo Lanese',
+###   'I Build Inspiring Responsive Reactive Solutions',
+###   'London, UK' }
 
-## {'Leo Lanese',
-### 'I Build Inspiring Responsive Reactive Solutions',
-### 'LONDON, UK'}
-
-
-# My Portfolio<br>
+### Portfolio<br>
 <a href="http://www.leolanese.com" target="_blank">http://www.leolanese.com</a><br>
 
-# My Blog:<br>
+### Blog:<br>
 <a href="http://www.leolanese.com/blog" target="_blank">www.leolanese.com/blog</a><br>
 
-# Twitter:<br>
-<a href="http://twitter.com/LeoLaneseltd" target="_blank">http://twitter.com/LeoLaneseltd</a><br>
+### Twitter:<br>
+Follow me at:<a href="http://twitter.com/LeoLaneseltd" target="_blank">http://twitter.com/LeoLaneseltd</a><br>
 
-# Questions / Suggestion / Recommendation ?<br>
+### Questions / Suggestion / Recommendation ?<br>
 <a href="mail:to">developer@leolanese.com</a><br>
 
 
