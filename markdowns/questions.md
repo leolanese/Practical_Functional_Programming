@@ -2,12 +2,16 @@
 
 ----
 
-#### Playground:
+#### Playgrounds:
 
-<details><summary>Results</summary>
+<details><summary>playcode & scalafiddle</summary>
 <p>
 
 [JS playground: playcode.io](https://playcode.io/463480?tabs=test.js,preview,console)
+
+</p>
+
+[SCALA playground: scalafiddle.io](https://scalafiddle.io/sf/Dz3zJ0v/0)
 
 </p>
 </details>
