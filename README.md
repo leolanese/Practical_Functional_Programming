@@ -19,27 +19,15 @@ For the first talk about Functional Programming please have a look at previous w
 ## ACTION PLAN
 After completing the [Functional (Programming) mindset](https://github.com/leolanese/Becoming-Functional/blob/master/README.md), have a look at the [Functional Programming Keynote](https://github.com/leolanese/Functional-Programming-Keynotes) and follow the action plan from: [Becoming functional](https://github.com/leolanese/Becoming-Functional/blob/master/README.md) to create the following code exercises:
 
+---
+### <i>Thanks!</i>
 
---
+>  { 'Leo Lanese',<br>
+     'Building Inspiring Responsive Reactive Solutions',<br>
+     'London, UK' }<br>
 
-#### { 'Leo Lanese',
-####   'Building Inspiring Responsive Reactive Solutions',
-####   'London, UK' }
-
-##### Portfolio<br>
-<a href="http://www.leolanese.com" target="_blank">http://www.leolanese.com</a>
-
-##### Twitter:<br>
-<a href="http://twitter.com/LeoLaneseltd" target="_blank">twitter.com/LeoLaneseltd</a>
-
-##### Questions / Suggestion / Recommendation ?<br>
-<a href="mail:to">developer@leolanese.com</a>
-
-#### GitHub bash profile:<br>
-<a href="http://github.com/leolanese/bash_profile" target="_blank">github.com/leolanese/bash_profile</a>
-
-##### DEV.to:<br>
-<a href="http://www.dev.to/leolanese" target="_blank">www.dev.to/leolanese</a>
-
-##### Blog:<br/>
-<a href="http://www.leolanese.com/blog" target="_blank">leolanese.com/blog</a>
+##### Twitter <a href="https://twitter.com/LeoLaneseltd" target="_blank">@LeoLaneseltd</a>
+##### Portfolio <a href="https://www.leolanese.com" target="_blank">www.leolanese.com</a>
+##### DEV.to <a href="https://www.dev.to/leolanese" target="_blank">dev.to/leolanese</a>
+##### Blog: <a href="https://www.leolanese.com/blog" target="_blank">leolanese.com/blog</a>
+##### Questions / Suggestion / Recommendation: developer@leolanese.com
