@@ -30,4 +30,4 @@ After completing the [Functional (Programming) mindset](https://github.com/leola
 #### :file_folder: Portfolio <a href="https://www.leolanese.com" target="_blank">www.leolanese.com</a>
 #### :bookmark_tabs: DEV.to :email: <a href="https://www.dev.to/leolanese" target="_blank">dev.to/leolanese</a>
 #### :page_facing_up: Blog: <a href="https://www.leolanese.com/blog" target="_blank">leolanese.com/blog</a>
-#### :e-mail: Questions / Suggestion / Recommendation: developer@leolanese.com
+#### :email:  Questions / Suggestion / Recommendation: developer@leolanese.com
