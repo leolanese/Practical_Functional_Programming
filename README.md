@@ -14,7 +14,9 @@ For the first talk about Functional Programming please have a look at previous w
 
 ## Further information/resources and online playgrounds:
 <a href="https://leolanese.github.io/Open-Source-JS-Resources/" target="_blank">Open Source JS Resource</a><br>
-<a href="https://github.com/leolanese/ES6_workshop/blob/master/4-My-favourites-ES6-Playgrounds-and-Resources.md" target="_blank">My favourites ES6 Playgrounds and Resources</a><br>
+<a href="https://github.com/leolanese/ES6_workshop/blob/master/4-My-favourites-ES6-Playgrounds-and-Resources.md" target="_blank">My favourites ES6 Playgrounds and Resources</a>
+<a href="https://github.com/leolanese/Functional-Programming-buzzwords" target="_blank">Functional Programming buzzwords</a>
+<br>
 
 ## ACTION PLAN
 After completing the [Functional (Programming) mindset](https://github.com/leolanese/Becoming-Functional/blob/master/README.md), have a look at the [Functional Programming Keynote](https://github.com/leolanese/Functional-Programming-Keynotes) and follow the action plan from: [Becoming functional](https://github.com/leolanese/Becoming-Functional/blob/master/README.md) to create the following code exercises:
