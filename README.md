@@ -9,7 +9,7 @@ For the first talk about Functional Programming please have a look at `previous 
 
 ## FP Workshops:
 * [Functional (Programming) mindset](https://tech.io/playgrounds/24002/functional-programming-mindset/introduction)<br/>
-<a href="https://leolanese.github.io/Becoming-Functional/" target="_blank">Becoming Functional</a><br>
+* <a href="https://leolanese.github.io/Becoming-Functional/" target="_blank">Becoming Functional</a><br>
 
 
 ## Further information/resources and online playgrounds:
