@@ -1,5 +1,5 @@
 # Practical Functional Programming:
-`Practical Functional Programming` is the the third part of the Functional Programming introduction, and a more even more hands-on approach.
+`Practical Functional Programming` is the the `third part of the Functional Programming introduction` from my workshops, and a more even more hands-on approach.
 
 # Previous Workshops:
 For the first talk about Functional Programming please have a look at `previous workshops`:
