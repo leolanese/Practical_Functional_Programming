@@ -1,21 +1,21 @@
 # Practical Functional Programming:
-"Practical Functional Programming" is the the third part of the Functional Programming introduction, and a more even more hands-on approach.
+`Practical Functional Programming` is the the third part of the Functional Programming introduction, and a more even more hands-on approach.
 
 # Previous Workshops:
-For the first talk about Functional Programming please have a look at previous workshops:
+For the first talk about Functional Programming please have a look at `previous workshops`:
 
 ## ES6 Workshops:
-<a href="https://github.com/leolanese/ES6_workshop" target="_blank">ES6_workshop</a><br>
+* <a href="https://github.com/leolanese/ES6_workshop" target="_blank">ES6_workshop</a><br>
 
 ## FP Workshops:
-[Functional (Programming) mindset](https://tech.io/playgrounds/24002/functional-programming-mindset/introduction)<br/>
+* [Functional (Programming) mindset](https://tech.io/playgrounds/24002/functional-programming-mindset/introduction)<br/>
 <a href="https://leolanese.github.io/Becoming-Functional/" target="_blank">Becoming Functional</a><br>
 
 
 ## Further information/resources and online playgrounds:
-<a href="https://leolanese.github.io/Open-Source-JS-Resources/" target="_blank">Open Source JS Resource</a><br>
-<a href="https://github.com/leolanese/ES6_workshop/blob/master/4-My-favourites-ES6-Playgrounds-and-Resources.md" target="_blank">My favourites ES6 Playgrounds and Resources</a><br>
-<a href="https://github.com/leolanese/Functional-Programming-buzzwords" target="_blank">Functional Programming buzzwords</a>
+* <a href="https://leolanese.github.io/Open-Source-JS-Resources/" target="_blank">Open Source JS Resource</a><br>
+* <a href="https://github.com/leolanese/ES6_workshop/blob/master/4-My-favourites-ES6-Playgrounds-and-Resources.md" target="_blank">My favourites ES6 Playgrounds and Resources</a><br>
+* <a href="https://github.com/leolanese/Functional-Programming-buzzwords" target="_blank">Functional Programming buzzwords</a>
 <br>
 
 ## ACTION PLAN
