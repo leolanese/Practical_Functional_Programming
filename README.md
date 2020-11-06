@@ -19,15 +19,13 @@ For the first talk about Functional Programming please have a look at `previous 
 <br>
 
 ## ACTION PLAN
-After completing the [Functional (Programming) mindset](https://github.com/leolanese/Becoming-Functional/blob/master/README.md), have a look at the [Functional Programming Keynote](https://github.com/leolanese/Functional-Programming-Keynotes) and follow the action plan from: [Becoming functional](https://github.com/leolanese/Becoming-Functional/blob/master/README.md) to create the following code exercises:
+After completing the [Functional (Programming) mindset](https://github.com/leolanese/Becoming-Functional/blob/master/README.md), have a look at the [Functional Programming Keynote](https://github.com/leolanese/Functional-Programming-Keynotes) and follow the action plan from: [Becoming functional](https://github.com/leolanese/Becoming-Functional/blob/master/README.md).
 
 ---
 ### :100: <i>Thanks!</i>
-#### Let's stay in touch!
+#### Now, don't be an stranger. Let's stay in touch!
 
-> { I'm `Leo Lanese`,<br>
-   'Building Inspiring Responsive `Reactive Solutions`',<br>
-   '`London, UK`' }<br>
+> I'm a passionately curious Front-end Engineer. I like sharing what I know, and learning what I don't. London, UK.
 
 ##### :radio_button: linkedin: <a href="https://www.linkedin.com/in/leolanese/" target="_blank">@LeoLaneseltd</a>
 ##### :radio_button: Twitter: <a href="https://twitter.com/LeoLaneseltd" target="_blank">@LeoLaneseltd</a>
@@ -35,4 +33,5 @@ After completing the [Functional (Programming) mindset](https://github.com/leola
 ##### :radio_button: DEV.to: <a href="https://www.dev.to/leolanese" target="_blank">dev.to/leolanese</a>
 ##### :radio_button: Blog: <a href="https://www.leolanese.com/blog" target="_blank">leolanese.com/blog</a>
 ##### :radio_button: Questions / Suggestion / Recommendation: developer@leolanese.com
+
 
