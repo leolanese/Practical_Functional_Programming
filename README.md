@@ -4,11 +4,13 @@
 # Previous Workshops:
 For the first talk about Functional Programming please have a look at `previous workshops`:
 
-## ES6 Workshops:* <a href="https://github.com/leolanese/ES6_workshop" target="_blank">ES6_workshop</a><br>
+## ES6 Workshops:* 
+<a href="https://github.com/leolanese/ES6_workshop" target="_blank">ES6_workshop</a><br>
+
 ## FP Workshops:
 * [Functional (Programming) mindset](https://tech.io/playgrounds/24002/functional-programming-mindset/introduction)<br/>
-* <a href="https://leolanese.github.io/Becoming-Functional/" target="_blank">Becoming Functional</a><br>
-* <a href="https://github.com/leolanese/Functional-Programming-buzzwords" target="_blank">Functional Programming buzzwords</a>
+* [Becoming-Functional]<a href="https://leolanese.github.io/Becoming-Functional/" target="_blank">Becoming Functional</a><br>
+* [Functional-Programming-buzzwords]<a href="https://github.com/leolanese/Functional-Programming-buzzwords" target="_blank">Functional Programming buzzwords</a>
 
 ---
 
