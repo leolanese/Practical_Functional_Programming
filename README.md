@@ -5,7 +5,7 @@
 For the first talk about Functional Programming please have a look at `previous workshops`:
 
 ## ES6 Workshops:* 
-<a href="https://github.com/leolanese/ES6_workshop" target="_blank">ES6_workshop</a><br>
+<a href="https://github.com/leolanese/ES6_workshop" target="_blank">JavaScript EcmaScript 6 Practical Workshop</a><br>
 
 ## FP Workshops:
 * <a href="https://tech.io/playgrounds/24002/functional-programming-mindset/introduction" target="_blank">Functional (Programming) mindset</a><br>
