@@ -4,7 +4,7 @@
 # Previous Workshops:
 For the first talk about Functional Programming please have a look at `previous workshops`:
 
-## ES6 Workshops:* 
+## ES6 Workshops:
 <a href="https://github.com/leolanese/ES6_workshop" target="_blank">JavaScript EcmaScript 6 Practical Workshop</a><br>
 
 ## FP Workshops:
